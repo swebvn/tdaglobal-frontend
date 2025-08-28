@@ -1,0 +1,698 @@
+{
+  "learnMore": "Tìm hiểu thêm",
+  "HomePage": {
+    "title": "Được chế tác chu đáo",
+    "title2": "Giao hàng chuyên nghiệp",
+    "subtitle": "Kết nối sản phẩm Việt với thị trường toàn cầu",
+    "description": "Từ thiết kế sản phẩm đến thực hiện đơn hàng, TDA Global mang đến sự chính xác, sáng tạo và rõ ràng cho thương mại điện tử toàn cầu.",
+    "getStarted": "Khám phá câu chuyện",
+    "learnMore": "Tham gia cùng chúng tôi",
+    "stats": {
+      "number1": "10M+",
+      "customers": "Khách hàng tin tưởng",
+      "number2": "50K+", 
+      "products": "Sản phẩm đa dạng",
+      "number3": "99%",
+      "satisfaction": "Hài lòng khách hàng",
+      "number4": "24/7",
+      "support": "Hỗ trợ không ngừng"
+    },
+    "overview": {
+      "title": "Khám phá TDA Global",
+      "subtitle": "Tìm hiểu về hành trình phát triển, tầm nhìn và dịch vụ của chúng tôi",
+      "about": {
+        "title": "Về chúng tôi",
+        "description": "TDA Global là nền tảng thương mại điện tử hàng đầu với hơn 4 năm kinh nghiệm, phục vụ hàng triệu khách hàng trên toàn quốc."
+      },
+      "ourWork": {
+        "title": "Dự án của chúng tôi",
+        "description": "Khám phá các dự án và thành tựu của chúng tôi trong việc xây dựng hệ sinh thái thương mại điện tử toàn diện."
+      },
+      "joinUs": {
+        "title": "Tham gia cùng chúng tôi",
+        "description": "Gia nhập cộng đồng TDA Global với tư cách đối tác, nhà cung cấp hoặc cộng tác viên để cùng nhau phát triển."
+      },
+      "careers": {
+        "title": "Tuyển dụng",
+        "description": "Cơ hội nghề nghiệp hấp dẫn tại TDA Global với môi trường làm việc năng động và chế độ đãi ngộ cạnh tranh."
+      },
+      "news": {
+        "title": "Tin tức",
+        "description": "Cập nhật những tin tức mới nhất về sản phẩm, dịch vụ và hoạt động của TDA Global."
+      },
+      "contact": {
+        "title": "Liên hệ",
+        "description": "Liên hệ với chúng tôi để được tư vấn và hỗ trợ. Đội ngũ chăm sóc khách hàng luôn sẵn sàng phục vụ 24/7."
+      }
+    },
+    "whyChoose": {
+      "badge": "ƯU ĐIỂM NỔI BẬT",
+      "title": "Tại sao chọn TDA Global?",
+      "subtitle": "Chúng tôi cam kết mang đến trải nghiệm mua sắm hoàn hảo với chất lượng cao nhất và dịch vụ chuyên nghiệp nhất",
+      "features": {
+        "freeShipping": {
+          "title": "Vận chuyển toàn cầu",
+          "description": "Vận chuyển toàn thế giới đến hơn 200 quốc gia. Thời gian giao hàng từ 3 đến 7 ngày.",
+          "benefit": "Nhận giao hàng toàn cầu mà không phải trả thêm chi phí"
+        },
+        "security": {
+          "title": "Bảo mật tuyệt đối",
+          "description": "Bảo mật thông tin 100% với công nghệ mã hóa SSL 256-bit. Hỗ trợ đa dạng phương thức thanh toán.",
+          "benefit": "Chứng nhận bảo mật quốc tế"
+        },
+        "support": {
+          "title": "Hỗ trợ 24/7",
+          "description": "Đội ngũ tư vấn chuyên nghiệp sẵn sàng hỗ trợ bạn mọi lúc, mọi nơi qua email.",
+          "benefit": "Thời gian phản hồi dưới 2 phút"
+        },
+        "returns": {
+          "title": "Đổi trả dễ dàng",
+          "description": "Chính sách đổi trả linh hoạt trong 30 ngày. Quy trình đơn giản, không phát sinh chi phí.",
+          "benefit": "Hoàn tiền 100% nếu không hài lòng"
+        }
+      }
+    },
+    "reviews": {
+      "badge": "ĐÁNH GIÁ KHÁCH HÀNG",
+      "title": "Khách hàng nói gì về chúng tôi",
+      "subtitle": "Trải nghiệm thực tế từ hàng nghìn khách hàng hài lòng đã tin tưởng lựa chọn TDA Global cho nhu cầu mua sắm",
+      "review1": {
+        "text": "TDA Global đã thay đổi hoàn toàn trải nghiệm mua sắm online của tôi. Giao hàng nhanh, sản phẩm chính hãng, dịch vụ khách hàng tuyệt vời. Tôi đã là khách hàng thân thiết 3 năm rồi!",
+        "name": "Jason J. Smith",
+        "role": "Chủ doanh nghiệp"
+      },
+      "review2": {
+        "text": "Điều ấn tượng nhất là dịch vụ hỗ trợ 24/7 của họ. Khi tôi gặp vấn đề với đơn hàng, họ đã giải quyết trong vòng vài giờ. Thật sự chuyên nghiệp!",
+        "name": "David A. Wheeler",
+        "role": "Kỹ sư phần mềm"
+      },
+      "review3": {
+        "text": "Chất lượng sản phẩm luôn được đảm bảo và chính sách đổi trả rất thuận tiện. TDA Global là lựa chọn đầu tiên của tôi cho việc mua sắm online.",
+        "name": "William L. Jones",
+        "role": "Quản lý Marketing"
+      },
+      "overall": {
+        "rating": "4.8/5",
+        "reviews": "Dựa trên 10.000+ đánh giá"
+      }
+    }
+  },
+  "Navigation": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "ourWork": "Dự án của chúng tôi",
+    "joinUs": "Tham gia cùng chúng tôi",
+    "careers": "Tuyển dụng",
+    "news": "Tin tức",
+    "contact": "Liên hệ"
+  },
+  "AboutPage": {
+    "badge": "Về chúng tôi",
+    "title": "Công ty Cổ phần TDA Global",
+    "subtitle": "Tìm hiểu về sứ mệnh, tầm nhìn và những giá trị định hình mọi việc chúng tôi làm",
+    "companyInfo": {
+      "name": "TDA Global",
+      "description": "Được thành lập với niềm đam mê xuất sắc và sự tận tâm với chất lượng, TDA Global đã phát triển trở thành nhà cung cấp giải pháp trang trí lối sống tùy chỉnh đáng tin cậy. Chúng tôi kết hợp nghệ thuật, sáng tạo và chức năng để nâng cao không gian và trải nghiệm hàng ngày."
+    },
+    "journey": {
+      "title": "Hành trình của chúng tôi",
+      "description1": "Từ năm 2021, TDA GLOBAL đã xây dựng một hệ sinh thái thương mại điện tử có thể mở rộng bắt nguồn từ Việt Nam và mở rộng ra hơn 15 thị trường toàn cầu.",
+      "description2": "Từ hoạt động được tinh giản đến các sản phẩm POD và sản phẩm được tuyển chọn phù hợp, chúng tôi phát triển theo thiết kế—dựa trên dữ liệu, được cải tiến hệ thống và dẫn dắt bởi trải nghiệm.",
+      "description3": "Hoàn thành hàng nghìn đơn hàng mỗi tháng, chúng tôi tiến về phía trước với niềm tin đơn giản:",
+      "motto": "Làm đúng. Làm nhất quán. Đi xa."
+    },
+    "missionVision": {
+      "mission": {
+        "title": "Sứ mệnh của chúng tôi",
+        "description1": "Tại TDA Global, chúng tôi tận tâm tạo ra những phụ kiện lối sống và không gian làm việc đặc biệt, truyền cảm hứng sáng tạo và nâng cao trải nghiệm hàng ngày. Sứ mệnh của chúng tôi là kết hợp thiết kế thẩm mỹ với chức năng trong khi duy trì các tiêu chuẩn chất lượng cao nhất và sự chú ý đến chi tiết.",
+        "description2": "Chúng tôi tin rằng các không gian và vật thể được thiết kế tốt có thể nâng cao năng suất, khơi dậy sáng tạo và cải thiện sức khỏe tổng thể. Mọi sản phẩm chúng tôi tạo ra đều phản ánh cam kết này với sự xuất sắc."
+      },
+      "vision": {
+        "title": "Tầm nhìn của chúng tôi",
+        "description1": "Chúng tôi hình dung một thế giới nơi các sản phẩm được thiết kế chu đáo trở thành một phần không thể thiếu của cuộc sống hàng ngày, nâng cao trải nghiệm và truyền cảm hứng sáng tạo. Tầm nhìn của chúng tôi là đi đầu trong đổi mới lối sống, đặt ra các tiêu chuẩn mới về chất lượng, thiết kế và chức năng.",
+        "description2": "Bằng cách duy trì trọng tâm rõ ràng vào các giá trị cốt lõi của chúng tôi và liên tục tinh chỉnh cách tiếp cận của mình, chúng tôi nhằm mục tiêu tạo ra các sản phẩm không chỉ đáp ứng mà còn vượt quá kỳ vọng."
+      }
+    },
+    "coreValues": {
+      "title": "Giá trị cốt lõi của chúng tôi",
+      "subtitle": "Những nguyên tắc hướng dẫn công việc của chúng tôi và xác định cách tiếp cận của chúng tôi",
+      "values": {
+        "quality": {
+          "title": "Chất lượng",
+          "description": "Chúng tôi cam kết xuất sắc trong mọi chi tiết của sản phẩm, từ ý tưởng đến giao hàng, đảm bảo giá trị và hiệu suất lâu dài."
+        },
+        "confidentiality": {
+          "title": "Bảo mật",
+          "description": "Chúng tôi tôn trọng và bảo vệ những ý tưởng và thiết kế sáng tạo mà chúng tôi phát triển cho khách hàng, duy trì các tiêu chuẩn riêng tư nghiêm ngặt."
+        },
+        "refinement": {
+          "title": "Tinh tế",
+          "description": "Chúng tôi theo đuổi sự thanh lịch và tinh tế trong thiết kế, tạo ra các sản phẩm nổi bật với vẻ đẹp tinh tế và sự chú ý đến chi tiết."
+        },
+        "creativity": {
+          "title": "Sáng tạo",
+          "description": "Chúng tôi vượt qua ranh giới để tạo ra các giải pháp độc đáo, sáng tạo truyền cảm hứng và làm hài lòng, liên tục khám phá các ý tưởng và cách tiếp cận mới."
+        }
+      }
+    },
+    "corePrinciples": {
+      "title": "Về Chúng Tôi, Sứ Mệnh & Tầm Nhìn",
+      "subtitle": "Những nguyên tắc cốt lõi hướng dẫn mọi việc chúng tôi làm và mọi quyết định chúng tôi đưa ra",
+      "principles": {
+        "innovation": {
+          "title": "Đổi Mới",
+          "description": "Giải pháp thiết kế tiên tiến"
+        },
+        "craftsmanship": {
+          "title": "Tay Nghề Thủ Công",
+          "description": "Sự chú ý tỉ mỉ đến từng chi tiết"
+        },
+        "delight": {
+          "title": "Niềm Vui",
+          "description": "Những trải nghiệm truyền cảm hứng niềm vui"
+        }
+      }
+    },
+    "timeline": {
+      "title": "Lịch sử",
+      "subtitle": "Những cột mốc quan trọng trong hành trình phát triển và đổi mới của chúng tôi",
+      "milestones": {
+        "2021": {
+          "title": "Năm thành lập",
+          "description": "Ra mắt với trọng tâm vào Print-on-Demand (POD), vận hành các cửa hàng Etsy và Amazon riêng để xác thực và tinh chỉnh mô hình."
+        },
+        "2022": {
+          "title": "Đột phá vận hành",
+          "description": "Tối ưu hóa quy trình đầu cuối; giới thiệu hệ thống tinh gọn và hoạt động minh bạch, dựa trên dữ liệu."
+        },
+        "2023": {
+          "title": "Mở rộng dịch vụ",
+          "description": "Bắt đầu cung cấp dịch vụ quản lý cửa hàng thương mại điện tử trên toàn cầu. Mở rộng quy mô lên hàng trăm nghìn cửa hàng và hàng triệu sản phẩm."
+        },
+        "2024": {
+          "title": "Tiêu chuẩn hóa & Thích ứng thị trường",
+          "description": "Nâng cao tính linh hoạt và tích hợp hệ thống để phù hợp với xu hướng thương mại điện tử thế hệ mới và kỳ vọng trải nghiệm người dùng."
+        },
+        "2025": {
+          "title": "Tầm với toàn cầu",
+          "description": "Hoạt động trên hơn 15 thị trường quốc tế với đội ngũ phân tán và hệ sinh thái thương mại điện tử ngày càng phát triển được xây dựng cho quy mô và tính bền vững."
+        }
+      }
+    },
+    "story": "Câu chuyện của chúng tôi",
+    "mission": "Sứ mệnh", 
+    "vision": "Tầm nhìn",
+    "values": "Giá trị cốt lõi",
+    "contactCta": {
+      "title": "Sẵn sàng bắt đầu hành trình của bạn?",
+      "description": "Tham gia cùng TDA Global trong việc tạo ra những giá trị tích cực cho cộng đồng và xã hội",
+      "joinTeam": "Tham gia đội ngũ của chúng tôi",
+      "contact": "Liên hệ với chúng tôi"
+    }
+  },
+  "Footer": {
+    "companyDescription": "Giải pháp thương mại điện tử hàng đầu cho Amazon, Etsy và các thị trường POD.",
+    "contact": {
+      "officeAddress": "Địa chỉ văn phòng",
+      "address1": "Số 11, Galaxy 5, Galaxy TSQ",
+      "address2": "Phường Hà Đông, Thành phố Hà Nội"
+    },
+    "quickLinks": {
+      "title": "Liên kết nhanh",
+      "aboutUs": "Về chúng tôi",
+      "ourWork": "Dự án của chúng tôi",
+      "news": "Tin tức",
+      "joinUs": "Tham gia cùng chúng tôi"
+    },
+    "location": {
+      "title": "Vị trí của chúng tôi",
+      "building": "Tòa nhà Galaxy TSQ",
+      "address1": "Số 11, Galaxy 5, Galaxy TSQ",
+      "address2": "Phường Hà Đông, Thành phố Hà Nội",
+      "viewOnMaps": "Xem trên Google Maps"
+    },
+    "copyright": "© 2025 TDA Global. Tất cả các quyền được bảo lưu.",
+    "privacyPolicy": "Chính sách bảo mật",
+    "termsOfService": "Điều khoản dịch vụ"
+  },
+  "OurWorkPage": {
+    "hero": {
+      "badge": "Công việc của chúng tôi", 
+      "title": "Khám phá sự giao thoa giữa hình thức và chức năng qua những nỗ lực sáng tạo của chúng tôi"
+    },
+    "craftingExperiences": {
+      "title": "Tạo nên Trải nghiệm",
+      "description": "Tại TDA Global, chúng tôi tạo ra những sản phẩm nâng cao môi trường và trải nghiệm. Công việc của chúng tôi kết hợp thiết kế sáng tạo với tay nghề tỉ mỉ để mang đến các giải pháp truyền cảm hứng và làm hài lòng."
+    },
+    "corePrinciples": {
+      "innovation": {
+        "title": "Đổi Mới",
+        "description": "Giải pháp thiết kế tiên tiến"
+      },
+      "craftsmanship": {
+        "title": "Tay Nghề Thủ Công",
+        "description": "Sự chú ý tỉ mỉ đến từng chi tiết"
+      },
+      "delight": {
+        "title": "Niềm Vui",
+        "description": "Những trải nghiệm truyền cảm hứng niềm vui"
+      }
+    },
+    "expertise": {
+      "title": "Chuyên môn của chúng tôi",
+      "subtitle": "Chúng tôi chuyên tạo ra những sản phẩm đặc biệt kết hợp hình thức và chức năng",
+      "lighting": {
+        "title": "Chiếu sáng",
+        "description": "Chiếu sáng không gian với các giải pháp thiết kế đèn chu đáo."
+      },
+      "workspaceSetup": {
+        "title": "Thiết kế Không gian Làm việc",
+        "description": "Tạo ra môi trường hài hòa thúc đẩy năng suất và sáng tạo."
+      },
+      "creativeAccessories": {
+        "title": "Phụ kiện Sáng tạo", 
+        "description": "Nâng cao trải nghiệm thông qua các phụ kiện được thiết kế chu đáo."
+      }
+    },
+    "designProcess": {
+      "title": "Quy trình Thiết kế của chúng tôi",
+      "subtitle": "Cách chúng tôi biến ý tưởng thành sản phẩm đặc biệt",
+      "steps": {
+        "discovery": {
+          "title": "Khám Phá",
+          "description": "Hiểu rõ nhu cầu và tìm hiểu các khả năng"
+        },
+        "concept": {
+          "title": "Ý Tưởng", 
+          "description": "Phát triển ý tưởng và thiết kế ban đầu"
+        },
+        "refine": {
+          "title": "Hoàn Thiện",
+          "description": "Tinh chỉnh từng chi tiết của thiết kế"
+        },
+        "create": {
+          "title": "Tạo Ra",
+          "description": "Chế tác với độ chính xác và tỉ mỉ"
+        },
+        "deliver": {
+          "title": "Giao Hàng",
+          "description": "Trình bày sản phẩm cuối cùng xuất sắc"
+        }
+      },
+      "processDescription": "Quy trình của chúng tôi được hướng dẫn bởi cam kết xuất sắc ở mọi giai đoạn. Chúng tôi tin rằng thiết kế tuyệt vời đến từ việc khám phá kỹ lưỡng, tinh chỉnh chu đáo và thực hiện tỉ mỉ. Cách tiếp cận này đảm bảo rằng mọi sản phẩm chúng tôi tạo ra đều vượt quá mong đợi về cả hình thức và chức năng."
+    },
+    "cta": {
+      "title": "Hãy Tạo Ra Điều Gì Đó Đặc Biệt",
+      "description": "Quan tâm đến việc tìm hiểu thêm về công việc của chúng tôi hoặc thảo luận về một dự án tiềm năng? Hãy liên hệ với đội ngũ của chúng tôi ngay hôm nay."
+    },
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "JoinUsPage": {
+    "hero": {
+      "badge": "Tham gia cùng chúng tôi",
+      "title": "Tham gia đội ngũ của chúng tôi",
+      "subtitle": "Trở thành một phần của đội ngũ coi trọng sự sáng tạo, đổi mới và xuất sắc",
+      "viewJobs": "Xem công việc",
+      "learnMore": "Tìm hiểu về công ty"
+    },
+    "culture": {
+      "title": "Văn Hóa Của Chúng Tôi",
+      "subtitle": "Tại TDA Global, chúng tôi xây dựng một môi trường hợp tác nơi sự sáng tạo phát triển và mỗi thành viên trong đội có thể đóng góp vào thành công chung của chúng ta.",
+      "collaborative": {
+        "title": "Hợp Tác",
+        "description": "Chúng tôi tin tưởng vào sức mạnh của tinh thần đồng đội và giao tiếp cởi mở. Cách tiếp cận hợp tác của chúng tôi cho phép chia sẻ ý tưởng tự do, học hỏi lẫn nhau và cùng tạo ra những giải pháp tốt hơn."
+      },
+      "creativeFreedom": {
+        "title": "Tự Do Sáng Tạo", 
+        "description": "Chúng tôi khuyến khích sự sáng tạo và đổi mới ở mọi cấp độ. Các thành viên trong đội có tự do khám phá ý tưởng mới, thử nghiệm các cách tiếp cận khác nhau và đóng góp quan điểm độc đáo của họ vào công việc."
+      },
+      "workLifeBalance": {
+        "title": "Cân Bằng Công Việc - Cuộc Sống",
+        "description": "Chúng tôi coi trọng sức khỏe của đội ngũ và nhận ra tầm quan trọng của việc duy trì sự cân bằng lành mạnh giữa công việc và cuộc sống. Chúng tôi cung cấp các sắp xếp linh hoạt để các thành viên có thể phát triển cả về mặt chuyên môn và cá nhân."
+      },
+      "continuousLearning": {
+        "title": "Học Tập Liên Tục",
+        "description": "Chúng tôi cam kết về sự phát triển và phát triển. Các thành viên trong đội được khuyến khích liên tục mở rộng kỹ năng và kiến thức thông qua các cơ hội học tập, hội thảo và dự án hợp tác khác nhau."
+      }
+    },
+    "whyJoin": {
+      "title": "Tại sao tham gia TDA Global",
+      "subtitle": "Chúng tôi cung cấp không chỉ là một công việc—chúng tôi mang đến cơ hội trở thành một phần của điều gì đó có ý nghĩa trong khi phát triển kỹ năng và sự nghiệp của bạn.",
+      "innovativeProjects": {
+        "title": "Dự Án Sáng Tạo",
+        "description": "Làm việc trên các dự án sáng tạo, tiên tiến thử thách và truyền cảm hứng cho bạn."
+      },
+      "professionalGrowth": {
+        "title": "Phát Triển Chuyên Môn",
+        "description": "Phát triển kỹ năng với các cơ hội học tập liên tục và sự hướng dẫn."
+      },
+      "collaborativeTeam": {
+        "title": "Đội Ngũ Hợp Tác",
+        "description": "Tham gia một đội ngũ hỗ trợ coi trọng quan điểm và ý tưởng đa dạng."
+      },
+      "workLifeBalance": {
+        "title": "Cân Bằng Công Việc - Cuộc Sống",
+        "description": "Tận hưởng các sắp xếp linh hoạt tôn trọng thời gian cá nhân và sức khỏe của bạn."
+      },
+      "recognition": {
+        "title": "Sự Công Nhận",
+        "description": "Những đóng góp của bạn sẽ được đánh giá cao, công nhận và khen thưởng một cách thích đáng."
+      },
+      "careerAdvancement": {
+        "title": "Thăng Tiến Nghề Nghiệp",
+        "description": "Con đường thăng tiến rõ ràng và cơ hội phát triển trong công ty."
+      }
+    },
+    "openPositions": {
+      "title": "Vị Trí Tuyển Dụng",
+      "subtitle": "Tham gia đội ngũ đang phát triển của chúng tôi và giúp định hình tương lai của thương mại điện tử toàn cầu",
+      "viewAll": "Xem Tất Cả Vị Trí",
+      "moreSoon": "Sẽ có thêm nhiều vị trí mở - Hãy theo dõi!",
+      "searchPlaceholder": "Tìm kiếm vị trí...",
+      "filterButton": "Lọc",
+      "featuredPosition": "Vị Trí Nổi Bật",
+      "departments": "Phòng Ban",
+      "openPositionsCount": "Vị Trí Đang Tuyển",
+      "generalAccountant": {
+        "title": "Kế toán Tổng hợp",
+        "requirements": "3+ năm kinh nghiệm",
+        "salary": "15–25 triệu VND/tháng (Gross)",
+        "experience": "Tài chính & Kế toán",
+        "location": "Thành phố Hồ Chí Minh",
+        "type": "Toàn thời gian",
+        "description": "Tham gia đội ngũ Tài chính với vai trò Kế toán Tổng hợp và đóng vai trò quan trọng trong việc duy trì sức khỏe tài chính của tổ chức. Bạn sẽ chịu trách nhiệm quản lý hồ sơ tài chính, đảm bảo tuân thủ các chuẩn mực kế toán và hỗ trợ các quyết định tài chính chiến lược.",
+        "responsibilities": [
+          "Duy trì hồ sơ tài chính chính xác và lập báo cáo tài chính",
+          "Xử lý các giao dịch phải trả và phải thu",
+          "Hỗ trợ quy trình đóng sổ cuối tháng và cuối năm",
+          "Lập tờ khai thuế và đảm bảo tuân thủ quy định thuế",
+          "Hỗ trợ lập ngân sách và phân tích tài chính",
+          "Phối hợp với kiểm toán viên trong quá trình kiểm toán hàng năm",
+          "Thực hiện và duy trì kiểm soát nội bộ",
+          "Hỗ trợ các dự án đặc biệt và phân tích theo yêu cầu"
+        ],
+        "qualifications": [
+          "Bằng cử nhân Kế toán, Tài chính hoặc chuyên ngành liên quan",
+          "3+ năm kinh nghiệm trong vai trò kế toán hoặc tài chính",
+          "Kiến thức vững chắc về nguyên tắc kế toán và báo cáo tài chính",
+          "Thành thạo phần mềm kế toán và MS Excel",
+          "Có chứng chỉ CPA là một lợi thế nhưng không bắt buộc",
+          "Kỹ năng phân tích và giải quyết vấn đề mạnh mẽ",
+          "Chú ý đến chi tiết và độ chính xác cao",
+          "Kỹ năng giao tiếp và quan hệ cá nhân tốt"
+        ],
+        "benefits": [
+          "Mức lương cạnh tranh: 15-25 triệu VND/tháng",
+          "Thưởng dựa trên hiệu suất",
+          "Bảo hiểm y tế",
+          "Cơ hội phát triển chuyên môn",
+          "Sắp xếp công việc linh hoạt",
+          "Hoạt động team building",
+          "Cơ hội thăng tiến nghề nghiệp"
+        ],
+        "workingHours": "8h30-12h30; 14h-18h từ thứ 2 đến thứ 6 + 4h thứ 7 nếu phát sinh",
+        "workingLocation": "Số 11, Galaxy 5, Galaxy Vạn Phúc, phường Vạn Phúc, quận Hà Đông, Hà Nội"
+      },
+      "reconciliationOfficer": {
+        "title": "Nhân viên Đối soát Giao dịch Thương mại điện tử",
+        "requirements": "Không yêu cầu kinh nghiệm",
+        "salary": "8–12 triệu VND/tháng (Gross)",
+        "experience": "Tài chính & Vận hành",
+        "location": "Thành phố Hồ Chí Minh",
+        "type": "Toàn thời gian",
+        "description": "Tham gia đội ngũ Vận hành với vai trò Nhân viên Đối soát Giao dịch Thương mại điện tử. Đây là vị trí entry-level mang đến cơ hội học hỏi tuyệt vời trong lĩnh vực vận hành tài chính và xử lý thanh toán thương mại điện tử.",
+        "responsibilities": [
+          "Đối soát giao dịch thương mại điện tử hàng ngày trên nhiều nền tảng",
+          "Đối chiếu bản ghi cổng thanh toán với sao kê ngân hàng",
+          "Xác định và giải quyết các sai lệch giao dịch",
+          "Lập báo cáo đối soát hàng ngày, hàng tuần và hàng tháng",
+          "Theo dõi và giám sát quy trình hoàn tiền và chargeback",
+          "Duy trì hồ sơ chính xác của tất cả dữ liệu giao dịch",
+          "Phối hợp với đội ngũ chăm sóc khách hàng về các yêu cầu thanh toán",
+          "Hỗ trợ quy trình đóng sổ tài chính cuối tháng"
+        ],
+        "qualifications": [
+          "Tốt nghiệp trung học phổ thông hoặc tương đương",
+          "Không cần kinh nghiệm trước đó - có đào tạo",
+          "Chú ý đến chi tiết và độ chính xác cao",
+          "Kỹ năng máy tính cơ bản và thành thạo Excel",
+          "Kỹ năng tổ chức và quản lý thời gian tốt",
+          "Khả năng làm việc với số liệu và dữ liệu tài chính",
+          "Kỹ năng giao tiếp mạnh mẽ",
+          "Sẵn sàng học hỏi và thích ứng với hệ thống mới"
+        ],
+        "benefits": [
+          "Mức lương cạnh tranh: 8-12 triệu VND/tháng",
+          "Chương trình đào tạo toàn diện",
+          "Bảo hiểm y tế",
+          "Thưởng hiệu suất",
+          "Cơ hội phát triển nghề nghiệp",
+          "Môi trường làm việc thân thiện",
+          "Hoạt động nhóm thường xuyên"
+        ]
+      },
+      "packagingStaff": {
+        "title": "Nhân viên Đóng gói",
+        "requirements": "Không yêu cầu kinh nghiệm",
+        "salary": "7–9 triệu VND/tháng + Hoa hồng",
+        "experience": "Fulfillment & Logistics",
+        "location": "Thành phố Hồ Chí Minh",
+        "type": "Toàn thời gian",
+        "description": "Tham gia đội ngũ Fulfillment với vai trò Nhân viên Đóng gói. Đây là vai trò thực hành phù hợp với những cá nhân chú ý đến chi tiết và muốn trở thành một phần của quy trình giao hàng sản phẩm và sự hài lòng của khách hàng.",
+        "responsibilities": [
+          "Đóng gói sản phẩm theo tiêu chuẩn công ty và yêu cầu khách hàng",
+          "Đảm bảo chất lượng sản phẩm và tính toàn vẹn của bao bì",
+          "Duy trì không gian đóng gói sạch sẽ và có tổ chức",
+          "Dán nhãn gói hàng chính xác với thông tin vận chuyển",
+          "Kiểm tra sản phẩm để phát hiện khiếm khuyết trước khi đóng gói",
+          "Đạt chỉ tiêu đóng gói hàng ngày và tiêu chuẩn chất lượng",
+          "Phối hợp với đội ngũ kho bãi về quản lý hàng tồn kho",
+          "Tuân thủ các quy trình và thủ tục an toàn"
+        ],
+        "qualifications": [
+          "Không cần kinh nghiệm trước đó - có đào tạo",
+          "Khả năng thể chất để đứng trong thời gian dài và nâng gói hàng",
+          "Chú ý đến chi tiết và tập trung vào chất lượng",
+          "Khả năng làm việc hiệu quả trong môi trường nhịp độ nhanh",
+          "Phối hợp tay-mắt tốt và khéo léo thủ công",
+          "Đáng tin cậy và đúng giờ trong công việc",
+          "Tinh thần đồng đội với thái độ tích cực",
+          "Hiểu biết cơ bản về quy trình an toàn"
+        ],
+        "benefits": [
+          "Lương cơ bản: 7-9 triệu VND/tháng",
+          "Cơ hội hoa hồng dựa trên hiệu suất",
+          "Bảo hiểm y tế",
+          "Bồi thường làm thêm giờ",
+          "Đào tạo phát triển kỹ năng",
+          "Chương trình công nhận nhân viên",
+          "Môi trường làm việc an toàn và hiện đại"
+        ]
+      },
+      "customerServiceRep": {
+        "title": "Nhân viên Chăm sóc Khách hàng",
+        "requirements": "Không yêu cầu kinh nghiệm",
+        "salary": "7–10 triệu VND/tháng (Gross)",
+        "experience": "Trải nghiệm Khách hàng",
+        "location": "Thành phố Hồ Chí Minh",
+        "type": "Toàn thời gian",
+        "description": "Tham gia đội ngũ Trải nghiệm Khách hàng với vai trò Nhân viên Chăm sóc Khách hàng. Bạn sẽ là tiếng nói của công ty, giúp đỡ khách hàng và đảm bảo họ có trải nghiệm tuyệt vời với sản phẩm và dịch vụ của chúng tôi.",
+        "responsibilities": [
+          "Phản hồi các yêu cầu của khách hàng qua điện thoại, email và chat",
+          "Giải quyết khiếu nại và mối quan tâm của khách hàng một cách chuyên nghiệp",
+          "Xử lý đơn hàng, yêu cầu trả hàng và hoàn tiền",
+          "Cung cấp thông tin sản phẩm và khuyến nghị",
+          "Duy trì hồ sơ khách hàng chính xác và nhật ký tương tác",
+          "Chuyển các vấn đề phức tạp đến các bộ phận thích hợp",
+          "Theo dõi khách hàng để đảm bảo sự hài lòng",
+          "Đóng góp vào các cuộc họp nhóm và sáng kiến cải tiến"
+        ],
+        "qualifications": [
+          "Tốt nghiệp trung học phổ thông hoặc tương đương",
+          "Không cần kinh nghiệm trước đó - có đào tạo toàn diện",
+          "Kỹ năng giao tiếp và quan hệ cá nhân xuất sắc",
+          "Cách tiếp cận kiên nhẫn và đồng cảm với dịch vụ khách hàng",
+          "Kỹ năng máy tính cơ bản và khả năng học phần mềm mới",
+          "Khả năng giải quyết vấn đề mạnh mẽ",
+          "Khả năng làm việc giờ linh hoạt bao gồm cuối tuần",
+          "Thái độ tích cực và phong cách chuyên nghiệp"
+        ],
+        "benefits": [
+          "Mức lương cạnh tranh: 7-10 triệu VND/tháng",
+          "Thưởng và khuyến khích hiệu suất",
+          "Đào tạo và phát triển toàn diện",
+          "Bảo hiểm y tế",
+          "Cơ hội thăng tiến nghề nghiệp",
+          "Chương trình sức khỏe nhân viên",
+          "Tùy chọn lịch trình linh hoạt"
+        ]
+      },
+      "itHelpDesk": {
+        "title": "Chuyên viên Hỗ trợ IT",
+        "requirements": "1-2 năm kinh nghiệm",
+        "salary": "10–15 triệu VND/tháng (Gross)",
+        "experience": "Công nghệ Thông tin",
+        "location": "TP. Hồ Chí Minh",
+        "type": "Toàn thời gian",
+        "description": "Tham gia đội ngũ IT với vai trò Chuyên viên Hỗ trợ. Bạn sẽ chịu trách nhiệm cung cấp hỗ trợ kỹ thuật cho nhân viên và đảm bảo hoạt động suôn sẻ của hạ tầng công nghệ.",
+        "responsibilities": [
+          "Cung cấp hỗ trợ kỹ thuật cấp độ một cho nhân viên",
+          "Khắc phục sự cố phần cứng và phần mềm",
+          "Thiết lập và cấu hình hệ thống máy tính mới",
+          "Quản lý kho thiết bị IT và giấy phép phần mềm",
+          "Ghi chép và theo dõi ticket hỗ trợ bằng phần mềm help desk",
+          "Hỗ trợ các vấn đề kết nối mạng và bảo mật",
+          "Hỗ trợ công cụ họp video và cộng tác",
+          "Chuyển các vấn đề kỹ thuật phức tạp lên nhân viên IT cấp cao"
+        ],
+        "qualifications": [
+          "Bằng cử nhân Công nghệ Thông tin hoặc chuyên ngành liên quan",
+          "1-2 năm kinh nghiệm trong hỗ trợ IT hoặc help desk",
+          "Kiến thức về hệ điều hành Windows và macOS",
+          "Quen thuộc với Microsoft Office Suite và Google Workspace",
+          "Hiểu biết cơ bản về khái niệm mạng",
+          "Kỹ năng giải quyết vấn đề và giao tiếp mạnh",
+          "Định hướng dịch vụ khách hàng với sự kiên nhẫn và chuyên nghiệp",
+          "Khả năng làm việc dưới áp lực và quản lý nhiều tác vụ"
+        ],
+        "benefits": [
+          "Mức lương cạnh tranh: 10-15 triệu VND/tháng",
+          "Thưởng dựa trên hiệu suất",
+          "Bảo hiểm y tế",
+          "Cơ hội phát triển chuyên môn và chứng chỉ",
+          "Môi trường làm việc hiện đại với công nghệ mới nhất",
+          "Thăng tiến nghề nghiệp trong lĩnh vực IT",
+          "Hoạt động xây dựng đội nhóm"
+        ]
+      },
+      "apply": "Ứng tuyển",
+      "keyRequirements": "Yêu Cầu Chính",
+      "benefits": "Phúc Lợi",
+      "experience": "Kinh Nghiệm",
+      "salaryRange": "Mức Lương",
+      "dontSeeRole": "Không Thấy Vị Trí Phù Hợp?",
+      "talentNetworkDescription": "Luôn tìm kiếm nhân tài. Gửi CV - chúng tôi sẽ liên hệ khi có cơ hội phù hợp!",
+      "submitGeneralApplication": "Nộp Đơn Ứng Tuyển Chung",
+      "learnAboutCulture": "Tìm Hiểu Văn Hóa Công Ty",
+      "joinTalentNetwork": "Tham Gia Mạng Lưới Nhân Tài"
+    }
+  },
+  "AllPositionsPage": {
+    "backToJoinUs": "Quay lại",
+    "title": "Tất cả vị trí tuyển dụng",
+    "subtitle": "Khám phá các cơ hội nghề nghiệp thú vị tại TDA Global",
+    "positionsCount": "vị trí",
+    "hiringNow": "Đang tuyển dụng",
+    "searchPlaceholder": "Tìm kiếm theo tên vị trí, mô tả...",
+    "experienceLabel": "Kinh nghiệm:",
+    "allFilter": "Tất cả",
+    "loading": "Đang tải...",
+    "showingResults": "Hiển thị {count} trên {total} vị trí",
+    "searchFor": "cho \"{term}\"",
+    "withExperience": "với kinh nghiệm \"{experience}\"",
+    "pageInfo": "Trang {current} / {total}",
+    "loadingJobs": "Đang tải danh sách việc làm...",
+    "noPositionsFound": "Không tìm thấy vị trí nào",
+    "tryChangingFilters": "Thử thay đổi từ khóa tìm kiếm hoặc bộ lọc của bạn",
+    "noOpenPositions": "Hiện tại chúng tôi chưa có vị trí tuyển dụng nào. Hãy quay lại sau!",
+    "clearFilters": "Xóa bộ lọc",
+    "noTitleAvailable": "Chưa có tiêu đề",
+    "notSpecified": "Chưa xác định",
+    "viewDetails": "Xem chi tiết",
+    "employmentTypes": {
+      "Full-time": "Toàn thời gian",
+      "Part-time": "Bán thời gian",
+      "Contract": "Hợp đồng",
+      "Internship": "Thực tập",
+      "Remote": "Làm việc từ xa"
+    }
+  },
+  "JoinUsJobList": {
+    "loadingJobs": "Đang tải danh sách việc làm...",
+    "noJobsTitle": "Chưa có việc làm nào",
+    "noJobsMessage": "Hiện tại chúng tôi chưa có vị trí tuyển dụng nào. Hãy quay lại sau!",
+    "noTitleAvailable": "Chưa có tiêu đề",
+    "notSpecified": "Chưa xác định",
+    "invalidDateFormat": "Định dạng ngày không hợp lệ",
+    "employmentTypes": {
+      "Full-time": "Toàn thời gian",
+      "Part-time": "Bán thời gian",
+      "Contract": "Hợp đồng",
+      "Internship": "Thực tập",
+      "Remote": "Làm việc từ xa"
+    }
+  },
+  "NewsPage": {
+    "hero": {
+      "badge": "Tin Tức & Sự Kiện",
+      "title": "Cập Nhật Mới Nhất từ TDA Global",
+      "description": "Luôn cập nhật những thông tin mới nhất về thị trường Amazon, xu hướng Etsy, chiến lược POD và các mẹo bán hàng hiệu quả trên các nền tảng thương mại điện tử quốc tế"
+    },
+    "latestNews": {
+      "title": "Tin Tức Mới Nhất",
+      "subtitle": "Cập nhật hàng ngày từ thế giới POD & Thương mại điện tử"
+    },
+    "showingArticles": "Hiển thị {count} trong tổng số {total} bài viết",
+    "searchResults": "Kết quả tìm kiếm",
+    "filtered": "Đã lọc",
+    "searchFilter": "Tìm kiếm + Lọc",
+    "noArticlesTitle": "Không Có Bài Viết Tin Tức",
+    "noArticlesMessage": "Hiện tại không có bài viết tin tức nào. Vui lòng quay lại sau.",
+    "refresh": "Làm mới",
+    "noResultsTitle": "Không tìm thấy kết quả",
+    "noResultsMessage": "Không có tin tức nào phù hợp với tiêu chí tìm kiếm. Hãy thử lại với từ khóa khác.",
+    "clearFilters": "Xóa bộ lọc",
+    "loading": "Đang tải...",
+    "seeMoreNews": "Xem thêm tin tức",
+    "searchPlaceholder": "Tìm kiếm tin tức...",
+    "filtersLabel": "Bộ lọc",
+    "categoriesLabel": "Danh mục",
+    "allCategories": "Tất cả",
+    "readMore": "Đọc thêm",
+    "backToNews": "Quay lại Tin tức"
+  },
+  "JobDetail": {
+    "backToJobs": "Quay lại Danh sách việc làm",
+    "backToAllJobs": "Quay lại tất cả việc làm",
+    "loading": "Đang tải thông tin việc làm...",
+    "errorLoading": "Lỗi khi tải thông tin việc làm",
+    "notFound": "Không tìm thấy công việc",
+    "tryAgain": "Thử lại",
+    "applyNow": "Ứng tuyển ngay",
+    "applyForThisPosition": "Ứng tuyển vị trí này",
+    "jobDetails": "Chi tiết công việc",
+    "salary": "Mức lương",
+    "experience": "Kinh nghiệm",
+    "location": "Địa điểm",
+    "jobType": "Loại hình",
+    "employmentType": "Hình thức làm việc",
+    "validThrough": "Hạn ứng tuyển",
+    "validUntil": "Hạn nộp",
+    "jobDescription": "Mô tả công việc",
+    "keyResponsibilities": "Trách nhiệm chính",
+    "qualifications": "Yêu cầu ứng viên",
+    "whatWeOffer": "Chúng tôi cung cấp",
+    "benefits": "Quyền lợi",
+    "benefitsPerks": "Quyền lợi & Phúc lợi",
+    "requirements": "Yêu cầu",
+    "aboutRole": "Về vị trí này",
+    "quickApply": "Ứng tuyển nhanh",
+    "fullJobDescription": "Mô tả công việc đầy đủ",
+    "workingHours": "Giờ làm việc",
+    "workingInformation": "Thông tin làm việc",
+    "officeLocation": "Địa điểm văn phòng",
+    "workingLocation": "Địa điểm làm việc",
+    "contactHR": "Liên hệ HR",
+    "applicationProcess": "Quy trình ứng tuyển",
+    "contactInfo": "Thông tin liên hệ",
+    "relatedPositions": "Vị trí liên quan",
+    "shareJob": "Chia sẻ",
+    "saveJob": "Lưu công việc",
+    "notSpecified": "Chưa xác định"
+  },
+  "Common": {
+    "language": "Ngôn ngữ",
+    "english": "Tiếng Anh",
+    "vietnamese": "Tiếng Việt"
+  }
+}

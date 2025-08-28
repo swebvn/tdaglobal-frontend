@@ -1,0 +1,194 @@
+/* Force scroll position to top on page load */
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  /* Ensure only one scrollbar */
+  /* scrollbar-gutter: stable; */
+}
+
+/* Prevent duplicate scrollbars */
+html {
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+/* Ensure no scroll offsets from any elements */
+* {
+  scroll-margin-top: 0 !important;
+  scroll-padding-top: 0 !important;
+}
+
+/* Fix for Next.js app router scroll restoration */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Ensure home page hero section starts at very top */
+.hero-section {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  overflow-x: hidden;
+}
+
+/* Hide scrollbar only in hero section content */
+.hero-section .container-responsive {
+  overflow-x: hidden;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+}
+
+.hero-section .container-responsive::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none; /* WebKit */
+}
+
+/* Override any default scroll restoration */
+body {
+  scroll-behavior: smooth;
+}
+
+/* Responsive header height adjustments with high specificity */
+main {
+  padding-top: 50px !important; /* Optimized for compact header */
+}
+
+/* More specific responsive adjustments */
+@media (max-width: 640px) {
+  /* Mobile: header height is smaller now */
+  main {
+    padding-top: 50px !important;
+  }
+  .hero-section {
+    min-height: calc(100vh - 64px) !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 768px) {
+  /* Small tablet: header height is smaller now */
+  main {
+    padding-top: 55px !important;
+  }
+  .hero-section {
+    min-height: calc(100vh - 72px) !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  /* Tablet: header height is smaller now */
+  main {
+    padding-top: 60px !important;
+  }
+  .hero-section {
+    min-height: calc(100vh - 80px) !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  /* Desktop: header height is smaller now */
+  main {
+    padding-top: 65px !important;
+  }
+  .hero-section {
+    min-height: calc(100vh - 96px) !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
+@media (min-width: 1281px) {
+  /* Large desktop: header height is smaller now */
+  main {
+    padding-top: 70px !important;
+  }
+  .hero-section {
+    min-height: calc(100vh - 112px) !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
+/* Specific media query for Nest Hub dimensions */
+@media (width: 1024px) and (height: 600px) {
+  main {
+    padding-top: 60px !important;
+  }
+  .hero-section {
+    min-height: calc(100vh - 100px) !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+}
+
+/* Alternative Nest Hub targeting by viewport */
+@media (width: 1024px) and (max-height: 600px) {
+  main {
+    padding-top: 100px !important;
+  }
+  .hero-section {
+    min-height: calc(100vh - 100px) !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
+/* Ensure hero section is never cut off */
+.hero-section {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 1rem 0 !important;
+}
+
+/* Mobile menu open state adjustments */
+@media (max-width: 1024px) {
+  .mobile-menu-open main {
+    padding-top: calc(64px + 200px) !important; /* Header + mobile menu height */
+  }
+  
+  @media (min-width: 641px) and (max-width: 768px) {
+    .mobile-menu-open main {
+      padding-top: calc(72px + 200px) !important;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .mobile-menu-open main {
+      padding-top: calc(80px + 200px) !important;
+    }
+  }
+}
+
+/* Additional responsive fixes */
+@media (max-height: 600px) {
+  /* For very short screens, reduce hero section minimum height */
+  .hero-section {
+    min-height: 80vh !important;
+    padding: 0.5rem 0 !important;
+  }
+}
+
+@media (max-height: 400px) {
+  /* For extremely short screens (landscape mobile) */
+  .hero-section {
+    min-height: 60vh !important;
+    padding: 0.25rem 0 !important;
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "learnMore": "Learn More",
+  "HomePage": {
+    "title": "Thoughtfully made",
+    "title2": "Professionally delivered",
+    "subtitle": "Connect Vietnamese products with global markets",
+    "description": "From product design to order fulfillment, TDA Global brings precision, creativity, and clarity to global eCommerce.",
+    "getStarted": "Discover Our Story",
+    "learnMore": "Join Us",
+    "stats": {
+      "number1": "10M+",
+      "customers": "Trusted Customers",
+      "number2": "50K+", 
+      "products": "Diverse Products",
+      "number3": "99%",
+      "satisfaction": "Customer Satisfaction",
+      "number4": "24/7",
+      "support": "Non-stop Support"
+    },
+    "overview": {
+      "title": "Discover TDA Global",
+      "subtitle": "Learn about our development journey, vision and services",
+      "about": {
+        "title": "About Us",
+        "description": "TDA Global is a leading e-commerce platform with over 4 years of experience, serving millions of customers nationwide."
+      },
+      "ourWork": {
+        "title": "Our Work", 
+        "description": "Explore our projects and achievements in building a comprehensive e-commerce ecosystem."
+      },
+      "joinUs": {
+        "title": "Join Us",
+        "description": "Join the TDA Global community as a partner, supplier or collaborator to grow together."
+      },
+      "careers": {
+        "title": "Careers",
+        "description": "Attractive career opportunities at TDA Global with a dynamic work environment and competitive benefits."
+      },
+      "news": {
+        "title": "News",
+        "description": "Stay updated with the latest news about products, services and TDA Global activities."
+      },
+      "contact": {
+        "title": "Contact",
+        "description": "Contact us for consultation and support. Our customer care team is always ready to serve 24/7."
+      }
+    },
+    "whyChoose": {
+      "badge": "OUTSTANDING ADVANTAGES",
+      "title": "Why choose TDA Global?",
+      "subtitle": "We are committed to providing the perfect shopping experience with the highest quality and most professional services",
+      "features": {
+        "freeShipping": {
+          "title": "Global Shipping",
+          "description": "Worldwide shipping to over 200 countries. Delivery time ranges from 3 to 7 days.",
+          "benefit": "Get global delivery without the extra cost"
+        },
+        "security": {
+          "title": "Absolute Security",
+          "description": "100% information security with 256-bit SSL encryption technology. Support diverse payment methods.",
+          "benefit": "Internationally certified security"
+        },
+        "support": {
+          "title": "24/7 Support",
+          "description": "Professional consulting team ready to support you anytime, anywhere via email.",
+          "benefit": "Response time under 2 minutes"
+        },
+        "returns": {
+          "title": "Easy Returns",
+          "description": "Flexible return policy within 30 days. Simple process, no additional fees.",
+          "benefit": "100% refund if not satisfied"
+        }
+      }
+    },
+    "reviews": {
+      "badge": "CUSTOMER TESTIMONIALS",
+      "title": "What Our Customers Say",
+      "subtitle": "Real experiences from thousands of satisfied customers who trust TDA Global for their shopping needs",
+      "review1": {
+        "text": "TDA Global has completely transformed my online shopping experience. Fast delivery, genuine products, and excellent customer service. I've been a loyal customer for 3 years now!",
+        "name": "Jason J. Smith",
+        "role": "Business Owner"
+      },
+      "review2": {
+        "text": "What impressed me most is their 24/7 customer support. When I had an issue with my order, they resolved it within hours. Truly professional service!",
+        "name": "David A. Wheeler",
+        "role": "Software Engineer"
+      },
+      "review3": {
+        "text": "The product quality is always guaranteed and the return policy is very convenient. TDA Global is my first choice for online shopping.",
+        "name": "William L. Jones",
+        "role": "Marketing Manager"
+      },
+      "overall": {
+        "rating": "4.8/5",
+        "reviews": "Based on 10,000+ reviews"
+      }
+    }
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "ourWork": "Our Work", 
+    "joinUs": "Join Us",
+    "careers": "Careers",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "AboutPage": {
+    "badge": "About",
+    "title": "TDA Global Joint Stock Company",
+    "subtitle": "Learn about our mission, vision, and the values that shape everything we do",
+    "companyInfo": {
+      "name": "TDA Global",
+      "description": "Founded with a passion for excellence and a dedication to quality, TDA Global has grown to become a trusted provider of custom lifestyle decor solutions. We combine art, creativity, and functionality to elevate everyday spaces and experiences."
+    },
+    "journey": {
+      "title": "Our Journey",
+      "description1": "Since 2021, TDA Global has built a scalable e-commerce ecosystem rooted in Vietnam and expanding across 15+ global markets.",
+      "description2": "From streamlined operations to tailored POD and curated products, we grow by design—data-driven, system-refined, and experience-led.",
+      "description3": "Fulfilling thousands of orders each month, we move forward with a simple belief:",
+      "motto": "Do it right. Do it consistently. Go far."
+    },
+    "missionVision": {
+      "mission": {
+        "title": "Our Mission",
+        "description1": "At TDA Global, we are dedicated to crafting exceptional lifestyle and workspace accessories that inspire creativity and elevate everyday experiences. Our mission is to combine aesthetic design with function while maintaining the highest standards of quality and attention to detail.",
+        "description2": "We believe that well-designed spaces and objects can enhance productivity, spark creativity, and improve overall wellbeing. Every product we create reflects this commitment to excellence."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description1": "We envision a world where thoughtfully designed products become an integral part of daily life, enhancing experiences and inspiring creativity. Our vision is to be at the forefront of lifestyle innovation, setting new standards for quality, design, and functionality.",
+        "description2": "By maintaining a clear focus on our core values and constantly refining our approach, we aim to create products that not only meet but exceed expectations."
+      }
+    },
+    "coreValues": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide our work and define our approach",
+      "values": {
+        "quality": {
+          "title": "Quality",
+          "description": "We commit to excellence in every detail of our products, from concept to delivery, ensuring lasting value and performance."
+        },
+        "confidentiality": {
+          "title": "Confidentiality",
+          "description": "We respect and protect the innovative ideas and designs we develop for our clients, maintaining strict privacy standards."
+        },
+        "refinement": {
+          "title": "Refinement",
+          "description": "We pursue elegance and sophistication in design, creating products that stand out for their subtle beauty and attention to detail."
+        },
+        "creativity": {
+          "title": "Creativity",
+          "description": "We push boundaries to create unique, innovative solutions that inspire and delight, constantly exploring new ideas and approaches."
+        }
+      }
+    },
+    "corePrinciples": {
+      "title": "About Us, Mission & Vision",
+      "subtitle": "The core principles that guide everything we do and every decision we make",
+      "principles": {
+        "innovation": {
+          "title": "Innovation",
+          "description": "Cutting-edge design solutions"
+        },
+        "craftsmanship": {
+          "title": "Craftsmanship", 
+          "description": "Meticulous attention to detail"
+        },
+        "delight": {
+          "title": "Delight",
+          "description": "Experiences that inspire joy"
+        }
+      }
+    },
+    "timeline": {
+      "title": "History",
+      "subtitle": "Key milestones in our journey of growth and innovation",
+      "milestones": {
+        "2021": {
+          "title": "Founded",
+          "description": "Launched with a focus on Print-on-Demand (POD), operating our own Etsy and Amazon shops to validate and refine the model."
+        },
+        "2022": {
+          "title": "Operational Breakthrough",
+          "description": "Optimized end-to-end workflows; introduced lean systems and transparent, data-driven operations."
+        },
+        "2023": {
+          "title": "Service Expansion",
+          "description": "Started offering eCommerce shop management services globally. Scaled to hundreds of thousands of shops and millions of products."
+        },
+        "2024": {
+          "title": "Standardization & Market Adaptation",
+          "description": "Enhanced system flexibility and integration to align with new-generation eCommerce trends and user experience expectations."
+        },
+        "2025": {
+          "title": "Global Reach",
+          "description": "Operating across 15+ international markets with a distributed team and a growing eCommerce ecosystem built for scale and sustainability."
+        }
+      }
+    },
+    "story": "Our Story",
+    "mission": "Mission",
+    "vision": "Vision",
+    "values": "Core Values",
+    "contactCta": {
+      "title": "Ready to Start Your Journey?",
+      "description": "Join TDA Global in creating positive value for the community and society",
+      "joinTeam": "Join Our Team",
+      "contact": "Contact Us"
+    }
+  },
+  "Footer": {
+    "companyDescription": "Leading e-commerce solutions for Amazon, Etsy, and POD marketplaces.",
+    "contact": {
+      "officeAddress": "Office Address",
+      "address1": "No. 11, Galaxy 5, Galaxy TSQ",
+      "address2": "Ha Dong Ward, Hanoi City"
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "aboutUs": "About Us",
+      "ourWork": "Our Work",
+      "news": "News",
+      "joinUs": "Join Us"
+    },
+    "location": {
+      "title": "Our Location",
+      "building": "Galaxy TSQ Building",
+      "address1": "No. 11, Galaxy 5, Galaxy TSQ",
+      "address2": "Ha Dong Ward, Hanoi City",
+      "viewOnMaps": "View on Google Maps"
+    },
+    "copyright": "© 2025 TDA Global. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "OurWorkPage": {
+    "hero": {
+      "badge": "Our Work",
+      "title": "Exploring the intersection of form and function through our creative endeavors"
+    },
+    "craftingExperiences": {
+      "title": "Crafting Experiences",
+      "description": "At TDA Global, we create products that enhance environments and elevate experiences. Our work combines innovative design with meticulous craftsmanship to deliver solutions that inspire and delight."
+    },
+    "corePrinciples": {
+      "innovation": {
+        "title": "Innovation",
+        "description": "Cutting-edge design solutions"
+      },
+      "craftsmanship": {
+        "title": "Craftsmanship",
+        "description": "Meticulous attention to detail"
+      },
+      "delight": {
+        "title": "Delight",
+        "description": "Experiences that inspire joy"
+      }
+    },
+    "expertise": {
+      "title": "Our Expertise",
+      "subtitle": "We specialize in creating exceptional products that blend form and function",
+      "lighting": {
+        "title": "Lighting",
+        "description": "Illuminating spaces with thoughtfully designed lighting solutions."
+      },
+      "workspaceSetup": {
+        "title": "Workspace Setup", 
+        "description": "Creating harmonious environments that foster productivity and creativity."
+      },
+      "creativeAccessories": {
+        "title": "Creative Accessories",
+        "description": "Enhancing experiences through thoughtfully designed accessories."
+      }
+    },
+    "designProcess": {
+      "title": "Our Design Process",
+      "subtitle": "How we transform ideas into exceptional products",
+      "steps": {
+        "discovery": {
+          "title": "Discovery",
+          "description": "Understanding needs and exploring possibilities"
+        },
+        "concept": {
+          "title": "Concept", 
+          "description": "Developing ideas and initial designs"
+        },
+        "refine": {
+          "title": "Refine",
+          "description": "Perfecting every detail of the design"
+        },
+        "create": {
+          "title": "Create",
+          "description": "Crafting with precision and care"
+        },
+        "deliver": {
+          "title": "Deliver",
+          "description": "Presenting the final exceptional product"
+        }
+      },
+      "processDescription": "Our process is guided by a commitment to excellence at every stage. We believe that great design comes from thorough exploration, thoughtful refinement, and meticulous execution. This approach ensures that every product we create exceeds expectations in both form and function."
+    },
+    "cta": {
+      "title": "Let's Create Something Exceptional",
+      "description": "Interested in learning more about our work or discussing a potential project? Get in touch with our team today."
+    },
+    "learnMore": "Learn More"
+  },
+  "JoinUsPage": {
+    "hero": {
+      "badge": "Join Us",
+      "title": "Join Our Team",
+      "subtitle": "Be part of a team that values creativity, innovation, and excellence",
+      "viewJobs": "View Job",
+      "learnMore": "Learn about the company"
+    },
+    "culture": {
+      "title": "Our Culture",
+      "subtitle": "At TDA Global, we foster a collaborative environment where creativity flourishes and every team member can contribute to our shared success.",
+      "collaborative": {
+        "title": "Collaborative",
+        "description": "We believe in the power of teamwork and open communication. Our collaborative approach allows us to share ideas freely, learn from each other, and create better solutions together."
+      },
+      "creativeFreedom": {
+        "title": "Creative Freedom", 
+        "description": "We encourage creativity and innovation at every level. Our team members have the freedom to explore new ideas, experiment with different approaches, and contribute their unique perspectives to our work."
+      },
+      "workLifeBalance": {
+        "title": "Work-Life Balance",
+        "description": "We value the wellbeing of our team and recognize the importance of maintaining a healthy work-life balance. We provide flexible arrangements that allow our team members to thrive both professionally and personally."
+      },
+      "continuousLearning": {
+        "title": "Continuous Learning",
+        "description": "We're committed to growth and development. Our team members are encouraged to continuously expand their skills and knowledge through various learning opportunities, workshops, and collaborative projects."
+      }
+    },
+    "whyJoin": {
+      "title": "Why Join TDA Global",
+      "subtitle": "We offer more than just a job—we provide an opportunity to be part of something meaningful while developing your skills and career.",
+      "innovativeProjects": {
+        "title": "Innovative Projects",
+        "description": "Work on creative, cutting-edge projects that challenge and inspire you."
+      },
+      "professionalGrowth": {
+        "title": "Professional Growth",
+        "description": "Develop your skills with ongoing learning opportunities and mentorship."
+      },
+      "collaborativeTeam": {
+        "title": "Collaborative Team",
+        "description": "Join a supportive team that values diverse perspectives and ideas."
+      },
+      "workLifeBalance": {
+        "title": "Work-Life Balance",
+        "description": "Enjoy flexible arrangements that respect your personal time and wellbeing."
+      },
+      "recognition": {
+        "title": "Recognition",
+        "description": "Your contributions will be valued, recognized, and rewarded appropriately."
+      },
+      "careerAdvancement": {
+        "title": "Career Advancement",
+        "description": "Clear paths for advancement and opportunities to grow within the company."
+      }
+    },
+    "openPositions": {
+      "title": "Open Positions",
+      "subtitle": "Join our growing team and help shape the future of global eCommerce",
+      "viewAll": "View All Positions",
+      "moreSoon": "More positions opening soon - Stay tuned!",
+      "searchPlaceholder": "Search positions...",
+      "filterButton": "Filter",
+      "featuredPosition": "Featured Position",
+      "departments": "Departments",
+      "openPositionsCount": "Open Positions",
+      "generalAccountant": {
+        "title": "General Accountant",
+        "requirements": "3+ years of experience",
+        "salary": "15–25 million VND/month (Gross)",
+        "experience": "Finance & Accounting",
+        "location": "Ho Chi Minh City",
+        "type": "Full-time",
+        "description": "Join our Finance team as a General Accountant and play a key role in maintaining the financial health of our organization. You'll be responsible for managing financial records, ensuring compliance with accounting standards, and supporting strategic financial decisions.",
+        "responsibilities": [
+          "Maintain accurate financial records and prepare financial statements",
+          "Process accounts payable and receivable transactions",
+          "Assist with month-end and year-end closing procedures",
+          "Prepare tax returns and ensure compliance with tax regulations",
+          "Support budget preparation and financial analysis",
+          "Collaborate with auditors during annual audits",
+          "Implement and maintain internal controls",
+          "Assist with special projects and ad-hoc analysis"
+        ],
+        "qualifications": [
+          "Bachelor's degree in Accounting, Finance, or related field",
+          "3+ years of experience in accounting or finance roles",
+          "Strong knowledge of accounting principles and financial reporting",
+          "Proficiency in accounting software and MS Excel",
+          "CPA certification preferred but not required",
+          "Strong analytical and problem-solving skills",
+          "Excellent attention to detail and accuracy",
+          "Good communication and interpersonal skills"
+        ],
+        "benefits": [
+          "Competitive salary: 15-25 million VND/month",
+          "Performance-based bonuses",
+          "Health insurance coverage",
+          "Professional development opportunities",
+          "Flexible working arrangements",
+          "Team building activities",
+          "Career advancement opportunities"
+        ],
+        "workingHours": "8:30-12:30; 14:00-18:00 Mon-Fri + 4h Saturday if needed",
+        "workingLocation": "No. 11, Galaxy 5, Galaxy Van Phuc, Van Phuc Ward, Ha Dong District, Hanoi"
+      },
+      "reconciliationOfficer": {
+        "title": "eCommerce Transaction Reconciliation Officer",
+        "requirements": "No experience required",
+        "salary": "8–12 million VND/month (Gross)",
+        "experience": "Finance & Operations",
+        "location": "Ho Chi Minh City",
+        "type": "Full-time",
+        "description": "Join our Operations team as an eCommerce Transaction Reconciliation Officer. This entry-level position offers excellent learning opportunities in financial operations and eCommerce payment processing.",
+        "responsibilities": [
+          "Reconcile daily eCommerce transactions across multiple platforms",
+          "Match payment gateway records with bank statements",
+          "Identify and resolve transaction discrepancies",
+          "Prepare daily, weekly, and monthly reconciliation reports",
+          "Monitor and track refund and chargeback processes",
+          "Maintain accurate records of all transaction data",
+          "Collaborate with customer service team on payment inquiries",
+          "Support month-end financial closing procedures"
+        ],
+        "qualifications": [
+          "High school diploma or equivalent required",
+          "No prior experience necessary - training provided",
+          "Strong attention to detail and accuracy",
+          "Basic computer skills and proficiency in Excel",
+          "Good organizational and time management skills",
+          "Ability to work with numbers and financial data",
+          "Strong communication skills",
+          "Willingness to learn and adapt to new systems"
+        ],
+        "benefits": [
+          "Competitive salary: 8-12 million VND/month",
+          "Comprehensive training program",
+          "Health insurance coverage",
+          "Performance bonuses",
+          "Career development opportunities",
+          "Friendly work environment",
+          "Regular team activities"
+        ],
+        "workingHours": "8:30-12:30; 14:00-18:00 Mon-Fri + 4h Saturday if needed",
+        "workingLocation": "No. 11, Galaxy 5, Galaxy Van Phuc, Van Phuc Ward, Ha Dong District, Hanoi"
+      },
+      "packagingStaff": {
+        "title": "Packaging Staff",
+        "requirements": "No experience required",
+        "salary": "7–9 million VND/month + Commission",
+        "experience": "Fulfillment & Logistics",
+        "location": "Ho Chi Minh City",
+        "type": "Full-time",
+        "description": "Join our Fulfillment team as Packaging Staff. This hands-on role is perfect for detail-oriented individuals who want to be part of our product delivery process and customer satisfaction.",
+        "responsibilities": [
+          "Package products according to company standards and customer requirements",
+          "Ensure product quality and packaging integrity",
+          "Maintain clean and organized packaging workspace",
+          "Label packages accurately with shipping information",
+          "Inspect products for defects before packaging",
+          "Meet daily packaging quotas and quality standards",
+          "Collaborate with warehouse team on inventory management",
+          "Follow safety protocols and procedures"
+        ],
+        "qualifications": [
+          "No prior experience required - training provided",
+          "Physical ability to stand for extended periods and lift packages",
+          "Strong attention to detail and quality focus",
+          "Ability to work efficiently in a fast-paced environment",
+          "Good hand-eye coordination and manual dexterity",
+          "Reliable and punctual work attendance",
+          "Team player with positive attitude",
+          "Basic understanding of safety procedures"
+        ],
+        "benefits": [
+          "Base salary: 7-9 million VND/month",
+          "Performance-based commission opportunities",
+          "Health insurance coverage",
+          "Overtime compensation",
+          "Skills development training",
+          "Employee recognition programs",
+          "Safe and modern work environment"
+        ],
+        "workingHours": "8:30-12:30; 14:00-18:00 Mon-Fri + 4h Saturday if needed",
+        "workingLocation": "No. 11, Galaxy 5, Galaxy Van Phuc, Van Phuc Ward, Ha Dong District, Hanoi"
+      },
+      "customerServiceRep": {
+        "title": "Customer Service Representative",
+        "requirements": "No experience required",
+        "salary": "7–10 million VND/month (Gross)",
+        "experience": "Customer Experience",
+        "location": "Ho Chi Minh City",
+        "type": "Full-time",
+        "description": "Join our Customer Experience team as a Customer Service Representative. You'll be the voice of our company, helping customers and ensuring they have exceptional experiences with our products and services.",
+        "responsibilities": [
+          "Respond to customer inquiries via phone, email, and chat",
+          "Resolve customer complaints and concerns professionally",
+          "Process orders, returns, and refund requests",
+          "Provide product information and recommendations",
+          "Maintain accurate customer records and interaction logs",
+          "Escalate complex issues to appropriate departments",
+          "Follow up with customers to ensure satisfaction",
+          "Contribute to team meetings and improvement initiatives"
+        ],
+        "qualifications": [
+          "High school diploma or equivalent",
+          "No prior experience necessary - comprehensive training provided",
+          "Excellent communication and interpersonal skills",
+          "Patient and empathetic approach to customer service",
+          "Basic computer skills and ability to learn new software",
+          "Strong problem-solving abilities",
+          "Ability to work flexible hours including weekends",
+          "Positive attitude and professional demeanor"
+        ],
+        "benefits": [
+          "Competitive salary: 7-10 million VND/month",
+          "Performance bonuses and incentives",
+          "Comprehensive training and development",
+          "Health insurance coverage",
+          "Career advancement opportunities",
+          "Employee wellness programs",
+          "Flexible scheduling options"
+        ],
+        "workingHours": "8:30-12:30; 14:00-18:00 Mon-Fri + 4h Saturday if needed",
+        "workingLocation": "No. 11, Galaxy 5, Galaxy Van Phuc, Van Phuc Ward, Ha Dong District, Hanoi"
+      },
+      "itHelpDesk": {
+        "title": "IT Help Desk Specialist",
+        "requirements": "1-2 years of experience",
+        "salary": "10–15 million VND/month (Gross)",
+        "experience": "Information Technology",
+        "location": "Ho Chi Minh City",
+        "type": "Full-time",
+        "description": "Join our IT team as a Help Desk Specialist. You'll be responsible for providing technical support to our employees and ensuring smooth operation of our technology infrastructure.",
+        "responsibilities": [
+          "Provide first-level technical support to employees",
+          "Troubleshoot hardware and software issues",
+          "Set up and configure new computer systems",
+          "Maintain inventory of IT equipment and software licenses",
+          "Document and track support tickets using help desk software",
+          "Assist with network connectivity and security issues",
+          "Support video conferencing and collaboration tools",
+          "Escalate complex technical issues to senior IT staff"
+        ],
+        "qualifications": [
+          "Bachelor's degree in Information Technology or related field",
+          "1-2 years of experience in IT support or help desk roles",
+          "Knowledge of Windows and macOS operating systems",
+          "Familiarity with Microsoft Office Suite and Google Workspace",
+          "Basic understanding of networking concepts",
+          "Strong problem-solving and communication skills",
+          "Customer service oriented with patience and professionalism",
+          "Ability to work under pressure and manage multiple tasks"
+        ],
+        "benefits": [
+          "Competitive salary: 10-15 million VND/month",
+          "Performance-based bonuses",
+          "Health insurance coverage",
+          "Professional development and certification opportunities",
+          "Modern work environment with latest technology",
+          "Career advancement in IT field",
+          "Team building activities"
+        ],
+        "workingHours": "8:30-12:30; 14:00-18:00 Mon-Fri + 4h Saturday if needed",
+        "workingLocation": "No. 11, Galaxy 5, Galaxy Van Phuc, Van Phuc Ward, Ha Dong District, Hanoi"
+      },
+      "apply": "Apply",
+      "keyRequirements": "Key Requirements",
+      "benefits": "Benefits",
+      "experience": "Experience",
+      "salaryRange": "Salary Range",
+      "dontSeeRole": "Don't See Your Perfect Role?",
+      "talentNetworkDescription": "Always looking for talented individuals. Send your resume - we'll keep you in mind for future opportunities!",
+      "submitGeneralApplication": "Submit General Application",
+      "learnAboutCulture": "Learn About Our Culture",
+      "joinTalentNetwork": "Join Talent Network"
+    }
+  },
+  "AllPositionsPage": {
+    "backToJoinUs": "Back",
+    "title": "All Positions",
+    "subtitle": "Discover exciting career opportunities at TDA Global",
+    "positionsCount": "positions",
+    "hiringNow": "Hiring now",
+    "searchPlaceholder": "Search by position title, description...",
+    "experienceLabel": "Experience:",
+    "allFilter": "All",
+    "loading": "Loading...",
+    "showingResults": "Showing {count} of {total} positions",
+    "searchFor": "for \"{term}\"",
+    "withExperience": "with experience \"{experience}\"",
+    "pageInfo": "Page {current} / {total}",
+    "loadingJobs": "Loading job list...",
+    "noPositionsFound": "No positions found",
+    "tryChangingFilters": "Try changing your search keywords or filters",
+    "noOpenPositions": "We currently have no open positions. Please check back later!",
+    "clearFilters": "Clear filters",
+    "noTitleAvailable": "No title available",
+    "notSpecified": "Not specified",
+    "viewDetails": "View details",
+    "employmentTypes": {
+      "Full-time": "Full-time",
+      "Part-time": "Part-time",
+      "Contract": "Contract",
+      "Internship": "Internship",
+      "Remote": "Remote work"
+    }
+  },
+  "JoinUsJobList": {
+    "loadingJobs": "Loading job list...",
+    "noJobsTitle": "No jobs available",
+    "noJobsMessage": "We currently have no open positions. Please check back later!",
+    "noTitleAvailable": "No title available",
+    "notSpecified": "Not specified",
+    "invalidDateFormat": "Invalid date format",
+    "employmentTypes": {
+      "Full-time": "Full-time",
+      "Part-time": "Part-time",
+      "Contract": "Contract",
+      "Internship": "Internship",
+      "Remote": "Remote work"
+    }
+  },
+  "NewsPage": {
+    "hero": {
+      "badge": "News & Events",
+      "title": "Latest Updates from TDA Global", 
+      "description": "Stay updated with the latest insights on Amazon marketplace, Etsy trends, POD strategies, and effective selling tips for international e-commerce platforms"
+    },
+    "latestNews": {
+      "title": "Latest News",
+      "subtitle": "Daily updates from the world of POD & E-commerce"
+    },
+    "showingArticles": "Showing {count} of {total} articles",
+    "searchResults": "Search results",
+    "filtered": "Filtered",
+    "searchFilter": "Search + Filter",
+    "noArticlesTitle": "No News Articles",
+    "noArticlesMessage": "There are no news articles available at the moment. Please check back later.",
+    "refresh": "Refresh",
+    "noResultsTitle": "No results found",
+    "noResultsMessage": "No news matches your search criteria. Please try again with different keywords.",
+    "clearFilters": "Clear filters",
+    "loading": "Loading...",
+    "seeMoreNews": "See more news",
+    "searchPlaceholder": "Search news...",
+    "filtersLabel": "Filters",
+    "categoriesLabel": "Categories", 
+    "allCategories": "All",
+    "readMore": "Read More",
+    "backToNews": "Back to News"
+  },
+  "JobDetail": {
+    "backToJobs": "Back to Jobs",
+    "backToAllJobs": "Back to All Jobs",
+    "loading": "Loading job information...",
+    "errorLoading": "Error loading job information",
+    "notFound": "Job not found",
+    "tryAgain": "Try again",
+    "applyNow": "Apply Now",
+    "applyForThisPosition": "Apply for this Position",
+    "jobDetails": "Job Details",
+    "salary": "Salary",
+    "experience": "Experience",
+    "location": "Location",
+    "jobType": "Job Type",
+    "employmentType": "Employment Type",
+    "validThrough": "Valid Through",
+    "validUntil": "Valid Until",
+    "jobDescription": "Job Description",
+    "keyResponsibilities": "Key Responsibilities",
+    "qualifications": "Qualifications",
+    "whatWeOffer": "What We Offer",
+    "benefits": "Benefits",
+    "benefitsPerks": "Benefits & Perks",
+    "requirements": "Requirements",
+    "aboutRole": "About This Role",
+    "quickApply": "Quick Apply",
+    "fullJobDescription": "Full Job Description",
+    "workingHours": "Working Hours",
+    "workingInformation": "Working Information",
+    "officeLocation": "Office Location",
+    "workingLocation": "Working Location",
+    "contactHR": "Contact HR",
+    "applicationProcess": "Application Process",
+    "contactInfo": "Contact Information",
+    "relatedPositions": "Related Positions",
+    "shareJob": "Share Job",
+    "saveJob": "Save Job",
+    "notSpecified": "Not specified"
+  },
+  "Common": {
+    "language": "Language",
+    "english": "English",
+    "vietnamese": "Vietnamese"
+  }
+}
